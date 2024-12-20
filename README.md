@@ -10,17 +10,13 @@ A simple and responsive payment simulation tool for testing payment flows. This 
 - **Responsive Design**: Built with Bootstrap for seamless usage on any device.
 
 ## How to Use
-You don't need to clone or download the repository to use this tool!  
-Simply visit: [payment-simulation.yavuzceliker.github.io](https://payment-simulation.yavuzceliker.github.io)
+Simply visit: [https://yavuzceliker.github.io/payment-simulation/](https://yavuzceliker.github.io/payment-simulation/)
 
 ### Steps:
 1. Open the link in your browser.
 2. Fill in the required fields (card details, expiry date, CVV, result URL).
 3. Choose the payment status (Success or Failed).
 4. Click **Pay Now** to simulate the payment. You'll be redirected to the provided URL with the selected status.
-
-## Demo
-Visit the live demo: [payment-simulation.yavuzceliker.github.io](https://payment-simulation.yavuzceliker.github.io)
 
 ## License
 This project is licensed under the MIT License. Feel free to use, modify, and adapt it for your projects.
